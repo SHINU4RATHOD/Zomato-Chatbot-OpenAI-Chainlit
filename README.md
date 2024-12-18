@@ -1,4 +1,6 @@
 # LLM-Apps-with-Chainlit
+![image](https://github.com/user-attachments/assets/7d3cdbfb-f825-4173-bfe4-ca048ac4c9b2)
+
 
 # Chainlit demo
 
